@@ -1,0 +1,4 @@
+This repo contain:
+1. Logistic regression for MNIST classification
+2. Multiplier Perceptron for MNIST classification
+3. LeNet5 CNN for MNIST classification
